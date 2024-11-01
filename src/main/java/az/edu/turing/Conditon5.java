@@ -19,6 +19,5 @@ public class Conditon5 {
             result="Sıfır";
         //output
         System.out.print(result);
-
     }
 }
